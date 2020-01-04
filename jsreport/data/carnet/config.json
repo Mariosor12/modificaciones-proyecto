@@ -1,0 +1,22 @@
+{
+    "shortid": "H1BFk0qyL",
+    "name": "carnet",
+    "recipe": "html-to-xlsx",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": "2020-01-02T02:06:11.530Z",
+    "modificationDate": {
+        "$$date": 1578014271756
+    },
+    "_id": "mGP24rBuS0wRhQ7e",
+    "$entitySet": "templates",
+    "data": {
+        "shortid": "B1lSTrt6NB"
+    },
+    "scripts": [],
+    "htmlToXlsx": {
+        "htmlEngine": "chrome"
+    }
+}

@@ -1,0 +1,373 @@
+2020-01-02T01:39:36.294Z - error: Error when processing render request Timeout Error: pdf generation not completed after 40000ms Error: Timeout Error: pdf generation not completed after 40000ms
+    at Timeout.<anonymous> (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-chrome-pdf\lib\conversion.js:192:19)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T01:39:36.299Z - error: Error during processing request at https://localhost:5489/api/report/orders-main
+2020-01-02T01:49:11.829Z - error: Error when processing render request Timeout Error: pdf generation not completed after 40000ms Error: Timeout Error: pdf generation not completed after 40000ms
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-chrome-pdf\lib\conversion.js:192:19)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T01:49:11.869Z - error: Error during processing request at http://localhost:5488/api/report/invoice-main
+2020-01-02T04:27:00.496Z - error: Error when processing render request Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092 TimeoutError: Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092
+    at Timeout.onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\puppeteer\lib\Launcher.js:353:14)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T04:27:00.502Z - error: Error during processing request at http://localhost:5488/api/report/presupuesto
+2020-01-02T04:35:01.752Z - error: Error when processing OData PATCH: /odata/templates(mGP24rBuS0wRhQ7e) Error: Entity (_id: mGP24rBuS0wRhQ7e) was modified previously by another source
+    at module.exports (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-core\lib\reporter.js:299:12)
+    at AsyncFunction.<anonymous> (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-studio\lib\studio.js:799:30)
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processImmediate (internal/timers.js:412:9)
+2020-01-02T19:48:36.707Z - error: Error when processing render request Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092 TimeoutError: Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092
+    at Timeout.onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\puppeteer\lib\Launcher.js:353:14)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T19:48:36.719Z - error: Error during processing request at http://localhost:5488/api/report/carnet
+2020-01-02T20:02:18.880Z - error: Error while trying to flush studio logs: Timeout during waiting for file system, try it again later. - Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:02:21.920Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:02:24.597Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:02:30.611Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:02:34.464Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:02:40.460Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:02:44.676Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:02:52.123Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:02:54.467Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:03:00.467Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:03:04.468Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:03:10.676Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:03:14.466Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:03:20.542Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T20:03:22.490Z - error: Error while trying to flush studio logs: Timeout during waiting for file system, try it again later. - Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T22:10:19.816Z - error: Error when processing render request Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092 TimeoutError: Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092
+    at Timeout.onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\puppeteer\lib\Launcher.js:353:14)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T22:10:20.459Z - error: Error during processing request at http://localhost:5488/api/report/carnet
+2020-01-02T23:19:36.004Z - error: Error while trying to flush studio logs: Timeout during waiting for file system, try it again later. - Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T23:19:37.415Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T23:19:43.297Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-02T23:19:47.236Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T00:15:23.813Z - error: Error when processing render request Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092 TimeoutError: Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092
+    at Timeout.onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\puppeteer\lib\Launcher.js:353:14)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T00:15:23.865Z - error: Error during processing request at http://localhost:5488/api/report
+2020-01-03T00:15:23.987Z - error: Error when processing render request Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092 TimeoutError: Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092
+    at Timeout.onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\puppeteer\lib\Launcher.js:353:14)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T00:15:24.054Z - error: Error during processing request at http://localhost:5488/api/report
+2020-01-03T00:32:43.134Z - error: Error when processing render request Timeout Error: pdf generation not completed after 60000ms Error: Timeout Error: pdf generation not completed after 60000ms
+    at Timeout.<anonymous> (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-chrome-pdf\lib\conversion.js:192:19)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T00:32:43.326Z - error: Error during processing request at http://localhost:5488/api/report
+2020-01-03T00:35:28.942Z - error: Error when processing OData PATCH: /odata/templates(mGP24rBuS0wRhQ7e) Error: EPERM: operation not permitted, rename 'c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\data\~carnet~carnet' -> 'c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\data\carnet'
+2020-01-03T00:35:58.948Z - error: Error when processing OData PATCH: /odata/templates(mGP24rBuS0wRhQ7e) Error: Entity (_id: mGP24rBuS0wRhQ7e) was modified previously by another source
+    at module.exports (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-core\lib\reporter.js:299:12)
+    at AsyncFunction.<anonymous> (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-studio\lib\studio.js:799:30)
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processImmediate (internal/timers.js:412:9)
+2020-01-03T01:09:36.932Z - error: Error when processing render request Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092 TimeoutError: Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r662092
+    at Timeout.onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\puppeteer\lib\Launcher.js:353:14)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:09:36.947Z - error: Error during processing request at http://localhost:5488/api/report/sales-main
+2020-01-03T01:18:58.272Z - error: Error when processing render request Timeout Error: script evaluation not completed after 60000ms Error: Timeout Error: script evaluation not completed after 60000ms
+    at Timeout.<anonymous> (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\chrome-page-eval\lib\eval.js:19:19)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:18:58.276Z - error: Error during processing request at http://localhost:5488/api/report/carnet
+2020-01-03T01:36:47.618Z - error: Error while trying to flush studio logs: Timeout during waiting for file system, try it again later. - Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:36:48.356Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:46:17.986Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:46:19.816Z - error: Error while trying to flush studio logs: Timeout during waiting for file system, try it again later. - Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:46:23.818Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:46:27.820Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:46:33.840Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:46:37.872Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:46:43.844Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:46:47.846Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:46:53.886Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:46:57.967Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T01:47:03.958Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:30:29.334Z - error: Error while trying to flush studio logs: Timeout during waiting for file system, try it again later. - Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:30:30.628Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:30:30.719Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:30:36.722Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:30:40.726Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:30:46.728Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:30:50.735Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:30:56.735Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:31:00.742Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:31:06.738Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:31:10.848Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:31:16.756Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-03T14:31:20.759Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T01:33:45.916Z - error: Error when processing render request Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r706915 TimeoutError: Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r706915
+    at Timeout.onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\puppeteer\lib\Launcher.js:359:14)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T01:33:46.005Z - error: Error during processing request at http://localhost:5488/api/report
+2020-01-04T20:06:25.313Z - error: Error while trying to flush studio logs: Timeout during waiting for file system, try it again later. - Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:26.454Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:26.484Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:26.485Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:26.500Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:26.507Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:28.881Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:31.068Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:31.071Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:31.072Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:31.078Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:31.079Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T20:06:33.075Z - error: unable to load planned schedules Error: Timeout during waiting for file system, try it again later.
+    at Object.rejectItemsWithTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\queue.js:53:23)
+    at Timeout._onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\jsreport-fs-store\lib\provider.js:346:73)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T21:31:00.071Z - error: Error when processing render request Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r706915 TimeoutError: Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r706915
+    at Timeout.onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\puppeteer\lib\Launcher.js:359:14)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T21:31:00.110Z - error: Error during processing request at http://localhost:5488/api/report/carnet
+2020-01-04T21:54:42.377Z - error: Error when processing render request Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r706915 TimeoutError: Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r706915
+    at Timeout.onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\puppeteer\lib\Launcher.js:359:14)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T21:54:42.853Z - error: Error during processing request at http://localhost:5488/api/report
+2020-01-04T21:54:43.209Z - error: Error when processing render request Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r706915 TimeoutError: Timed out after 30000 ms while trying to connect to Chrome! The only Chrome revision guaranteed to work is r706915
+    at Timeout.onTimeout (c:\Users\Ana\Desktop\acavucab-bdi-final-development\jsreport\node_modules\puppeteer\lib\Launcher.js:359:14)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+2020-01-04T21:54:43.261Z - error: Error during processing request at http://localhost:5488/api/report
