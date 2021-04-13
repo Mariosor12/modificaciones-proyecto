@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "jsreport": "2.6.1",
-    "jsreport-chrome-pdf": "^1.6.1",
+    "jsreport-chrome-pdf": "^1.10.0",
     "jsreport-core": "^2.6.2",
     "jsreport-handlebars": "^2.1.0",
     "jsreport-postgres-store": "^1.2.3",
