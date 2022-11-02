@@ -9,7 +9,7 @@
     "entryPoint": "server.js"
   },
   "dependencies": {
-    "jsreport": "2.6.1",
+    "jsreport": "3.8.0",
     "jsreport-chrome-pdf": "^1.6.1",
     "jsreport-core": "^2.6.2",
     "jsreport-handlebars": "^2.1.0",
